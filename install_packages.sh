@@ -35,6 +35,7 @@ opkg install node
 opkg install onion-node-red
 opkg install node-npm
 opkg install python
+opkg upgrade onion-node-red
 
 echo
 #echo " * turning back the content of customfeeds.conf to original"
